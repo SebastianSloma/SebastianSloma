@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @SebastianSloma</h1>
-<h3 align="center">🐍</h3>
+<h3 align="center">👨🏻‍💻</h3>
 
 - 🦾 I’m currently working on **Portfolio Website**
 
-- I'm currently focused on developing my **Javascript programming skills 🐍**
+- I'm currently focused on developing my **JavaScript programming skills**
 
 - 💻 All of my projects are available at **https://github.com/SebastianSloma**
 
