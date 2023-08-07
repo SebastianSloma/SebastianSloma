@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiansloma&show_icons=true&theme=dracula&locale=en" alt="sebastiansloma" /></p>
 
 
-<p><img align="center" src="https://github.com/SebastianSloma/SebastianSloma/blob/574326d44e9e1cf22fd204e899081427be72cb69/github-contribution-grid-snake.svg" alt="sebastiansloma" /></p>
+
