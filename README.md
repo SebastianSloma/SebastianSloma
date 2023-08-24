@@ -3,11 +3,11 @@
 
 - 🦾 I’m currently working on **Portfolio Website**
 
-- I'm currently focused on developing my **JavaScript programming skills**
+- I'm currently focused on developing my TypeScipt and React programming skills
 
 - 💻 All of my projects are available at **https://github.com/SebastianSloma**
 
-- 🔮 In the future, I would like to learn [TypeScript](TypeScript)
+- 🔮 In the future, I would like to learn Next Js
 
 - ✉️ How to reach me **sebastiansloma@gmail.com**
 
