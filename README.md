@@ -3,7 +3,7 @@
 
 - 🦾 Currently working on a portfolio
 
-- I'm currently focused on developing my TypeScipt and React programming skills
+- 🖥️ I'm currently focused on developing my TypeScipt and React programming skills
 
 - 💻 All of my projects are available at **https://github.com/SebastianSloma**
 
