@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm @SebastianSloma</h1>
 <h3 align="center">👨🏻‍💻</h3>
 
-- 🦾 Currently working on a portfolio
-
-- 🖥️ I'm currently focused on developing my TypeScipt and React programming skills
-
-- 💻 All of my projects are available at **https://github.com/SebastianSloma**
-
-- 🔮 In the future, I would like to learn Next Js
+- 🖥️ Currently, I'm focusing on developing TypeScipt and NextJs programming skills
 
 - ✉️ How to reach me **sebastiansloma@gmail.com**
 
